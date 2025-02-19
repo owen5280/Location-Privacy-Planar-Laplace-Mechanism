@@ -2,7 +2,7 @@
 
 Install Python dependencies: pip install -r requirements.txt
 
-Extract Data to ./data
+Extract data.zip to ./data
 
 Run planar_laplace_mechanism.py
 
